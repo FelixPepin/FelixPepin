@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-Je m’appelle Félix Pépin, étudiant en Technique de l’informatique en voie d’obtenir mon diplôme et actuellement à la recherche d’un stage. Je m’intéresse particulièrement au développement backend, tout en restant ouvert à différents types de projets logiciels. J’aime apprendre en construisant des projets concrets et je cherche constamment à m’améliorer, notamment en échangeant et en apprenant auprès de développeurs plus expérimentés.
+Je m’appelle Félix Pépin, étudiant en Technique de l’informatique en voie d’obtenir mon diplôme et actuellement à la recherche d’un emploi. Je m’intéresse particulièrement au développement backend et frontend, tout en restant ouvert à différents types de projets logiciels. J’aime apprendre en construisant des projets concrets et je cherche constamment à m’améliorer, notamment en échangeant et en apprenant auprès de développeurs plus expérimentés.
 
 
 # 💻 Tech Stack:
